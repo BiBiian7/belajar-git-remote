@@ -1,2 +1,2 @@
 cuma buat belajar git remote pake server dari GitHub aja
-tambahan aja
+ini ditambahkan di develop
