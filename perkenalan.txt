@@ -1,0 +1,1 @@
+cuma buat belajar git remote pake server dari GitHub aja
